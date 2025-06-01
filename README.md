@@ -7,6 +7,7 @@ This repository contains a **Power BI dashboard** created during a data analytic
 
 ![Dashboard Demo](dashboard-demo.gif)
 
+
 ---
 
 ##  Key Features
